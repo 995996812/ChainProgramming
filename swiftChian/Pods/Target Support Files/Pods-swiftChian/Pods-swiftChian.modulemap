@@ -1,0 +1,6 @@
+framework module Pods_swiftChian {
+  umbrella header "Pods-swiftChian-umbrella.h"
+
+  export *
+  module * { export * }
+}
