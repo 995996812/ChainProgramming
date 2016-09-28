@@ -8,7 +8,7 @@
 
 import Foundation
 import SnapKit
-
+//用协议做的类扩展
 protocol chainHzlabel {
     
 }

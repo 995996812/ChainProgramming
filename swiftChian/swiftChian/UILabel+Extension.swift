@@ -8,7 +8,7 @@
 
 import UIKit
 import SnapKit
-
+//用继承做的类扩展
 class BlockLabel: UILabel {
     
     
